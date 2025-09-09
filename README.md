@@ -1,4 +1,4 @@
-# Malayalam Speech Processing App
+# TTS-STT with Whisper & gTTS
 
 A web-based application for Malayalam speech-to-text and text-to-speech conversion using OpenAI Whisper and Google Text-to-Speech.
 
